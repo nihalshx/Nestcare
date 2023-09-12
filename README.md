@@ -5,12 +5,7 @@
 
 Nest Care is a Flutter app dedicated to helping abandoned pets and stray animals find a safe and loving home. In our busy lives, we often overlook the plight of these creatures, but Nest Care aims to make a difference. Our app provides a platform to connect pet lovers, adopters, and caregivers with abandoned animals in need.
 
-## Screenshots
 
-![Cover](readme_img/Cover.png)
-![Screenshot 1](readme_img/Thumb1.png)
-![Screenshot 2](readme_img/Thumb2.png)
-![Screenshot 3](readme_img/Thumb3.png)
 
 ## Getting Started
 
@@ -81,6 +76,13 @@ Use the Nest Care app to:
 - Support stray care organizations.
 - Access grooming, training, boarding, and pet shop services.
 - Quickly locate the nearest vet center for your pet's needs.
+
+## Screenshots
+
+![Cover](readme_img/Cover.png)
+![Screenshot 1](readme_img/Thumb1.png)
+![Screenshot 2](readme_img/Thumb2.png)
+![Screenshot 3](readme_img/Thumb3.png)
 
 ## Contributing
 
