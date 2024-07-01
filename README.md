@@ -81,5 +81,5 @@ Contributions to Nest Care are welcome! If you have any ideas, bug fixes, or new
 
 ## Download
 
-You can download the Nest Care app [here](https://drive.google.com/file/d/1oaNwHpfDzgsmWuE5genDMlrR0JROfyUk/view?usp=sharing).
+You can download the Nest Care app [here](https://drive.google.com/file/d/1oaNwHpfDzgsmWuE5genDMlrR0JROfyUk/view?usp=sharing).</br>
 Thank you for using Nest Care and helping to make a difference in the lives of stray and abandoned animals!
